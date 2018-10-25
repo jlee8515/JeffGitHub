@@ -1,0 +1,112 @@
+.wrapper {
+    width: 1600px;
+    height: 1300;
+}
+.banner {
+    background-image: url(https://media.istockphoto.com/photos/faded-white-brick-wall-background-picture-id589939788?k=6&m=589939788&s=612x612&w=0&h=GD1Jiu1ofsE96j_HezxG7__hzaxpoMUHWf_j4PpfgTk=);
+    width: 500px;
+    height: 100px;
+    position: relative;
+    left: 700px;
+    line-height: 100px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+.adsleft {
+    background-image: url(https://media.istockphoto.com/photos/faded-white-brick-wall-background-picture-id589939788?k=6&m=589939788&s=612x612&w=0&h=GD1Jiu1ofsE96j_HezxG7__hzaxpoMUHWf_j4PpfgTk=);
+    width: 150px;
+    height: 550px;
+    position: relative;
+    left: 240px;
+    top: 317px;
+    text-align: center;
+    line-height: 48px;
+    font-size: 23px;
+    text-align-last: auto;
+    font-style: italic;
+}
+.adsright {
+    background-image: url(https://media.istockphoto.com/photos/faded-white-brick-wall-background-picture-id589939788?k=6&m=589939788&s=612x612&w=0&h=GD1Jiu1ofsE96j_HezxG7__hzaxpoMUHWf_j4PpfgTk=);
+    width: 150px;
+    height: 550px;
+    position: absolute;
+    left: 1540px;
+    top: 445px;
+    text-align: center;
+    line-height: 150px;
+    font-size: 30px;
+    text-align-last: auto;
+    font-style: italic;
+}
+.content {
+    background-color: white;
+    width: 1100px;
+    height: 815px;
+    position: absolute;
+    left: 420px;
+    top: 120px;
+    
+    
+}
+h1 {
+    font-family: DauphinPlain;
+    font-size: 65px;
+    font-weight: 400;
+    text-align: center;
+    font-style: normal;
+    
+}
+.content h4 {
+    text-align: center;
+    font-style: italic;
+}
+.content h5 {
+    text-align: center;
+}
+.content p strong {
+   text-align-last: auto;
+}
+.content strong a {
+    color: black;
+}
+.content strong a:hover {
+    color: red;
+}
+.langlinks {
+    text-align: center;
+}
+.langlinks a {
+    color: black;
+}
+a:hover {
+    color: red;
+}
+.footer  {
+    text-align: center;
+}
+.footer a {
+    color: black;
+    text-decoration: none;
+}
+.footer a:hover {
+    color: red;
+}
+.adsbottom {
+    background-image: url(https://media.istockphoto.com/photos/faded-white-brick-wall-background-picture-id589939788?k=6&m=589939788&s=612x612&w=0&h=GD1Jiu1ofsE96j_HezxG7__hzaxpoMUHWf_j4PpfgTk=);
+    width: 500px;
+    height: 100px;
+    position: relative;
+    left: 700px;
+    top: 320px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+hr {
+    height: 1px;
+    background-image: linear-gradient(to right,rgba(0,0,0,0,),rgba(0,0,0,.75), rgba(0,0,0,0));
+} 
